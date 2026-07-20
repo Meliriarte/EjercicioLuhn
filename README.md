@@ -130,7 +130,3 @@ La aplicación controla situaciones como:
 ## Evidencias
 
 En la carpeta `Imagenes` se encuentran capturas de la ejecución del proyecto.
-
-## Repositorio
-
-[Ver el proyecto en GitHub](https://github.com/Meliriarte/EjercicioLuhn)
